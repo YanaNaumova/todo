@@ -1,0 +1,23 @@
+.container {
+  background-color: #a0a4c9;
+  border: 2px solid black;
+  padding: 10px;
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  color: white;
+  justify-content: space-between;
+  max-width: 400px;
+}
+
+.deleteBtn {
+  padding: 2px;
+  border: 2px solid black;
+  border-radius: 5px;
+  height: 25px;
+}
+
+.titleText {
+  word-wrap: break-word;
+  word-break: break-all;
+}

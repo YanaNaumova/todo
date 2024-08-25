@@ -1,0 +1,23 @@
+.inputTaskStyle {
+  background-color: #c4a6cc;
+  padding: 5px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.inputTaskStyle::placeholder {
+  color: white;
+}
+
+.formContainer {
+  display: flex;
+  gap: 20px;
+}
+
+.btnStyles {
+  color: white;
+  background-color: #8f93d5;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid white;
+}
